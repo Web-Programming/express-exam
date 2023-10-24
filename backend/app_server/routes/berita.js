@@ -1,0 +1,1 @@
+//Buatlah router untuk berita dengan ketentuan -- lihat soal
